@@ -14,3 +14,5 @@ Files
 =====
 
 .. doxygenfile:: world.h
+
+.. doxygenfile:: main.cpp
