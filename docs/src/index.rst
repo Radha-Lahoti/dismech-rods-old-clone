@@ -13,8 +13,4 @@ Classes
 Files
 =====
 
-.. doxygenfile:: world.h
-
-.. doxygenfile:: main.cpp
-
 .. doxygenfile:: robotDescription_documented.h
