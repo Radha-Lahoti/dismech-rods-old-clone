@@ -1,4 +1,4 @@
-Install [libccd](https://github.com/danfis/libccd) with the following commands, making sure to build shared libraries:
+- Install [libccd](https://github.com/danfis/libccd) with the following commands, making sure to build shared libraries:
      ```bash
     git clone https://github.com/danfis/libccd
     cd libccd/src
@@ -6,4 +6,4 @@ Install [libccd](https://github.com/danfis/libccd) with the following commands, 
     make -j4
     sudo make install
      ```
-There is a slight difference: "cd libccd/src and not libccd"
+- There is a slight difference: "cd libccd/src and not libccd"
