@@ -6,4 +6,4 @@
     make -j4
     sudo make install
      ```
-- There is a slight difference: "cd libccd/src and not libccd"
+- There is a slight difference: ```cd libccd/src``` and not ```libccd```
