@@ -11,7 +11,8 @@ Welcome to DisMech's documentation!
 .. toctree::
    :caption: Contents
 
-   src/index
+   classes/index
+   files/index
 
 Indices and tables
 ==================
