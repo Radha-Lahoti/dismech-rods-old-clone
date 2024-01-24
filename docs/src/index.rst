@@ -5,5 +5,6 @@ Classes
    :maxdepth: 2
    :caption: Classes
 
-   world/index
+   world
    baseForce
+   elasticJoint
