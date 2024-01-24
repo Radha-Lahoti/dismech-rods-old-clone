@@ -9,7 +9,7 @@ Welcome to DisMech's documentation!
 .. mdinclude:: ../README.md
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Contents
 
    classes/index
