@@ -9,6 +9,7 @@ Welcome to DisMech's documentation!
 .. mdinclude:: ../README.md
 
 .. toctree::
+   :hidden:
    :caption: Contents
 
    src/index
