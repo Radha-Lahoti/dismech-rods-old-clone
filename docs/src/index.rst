@@ -1,9 +1,6 @@
-Classes
-=======
-
 .. toctree::
    :maxdepth: 2
-   :caption:
+   :caption: Classes
 
    world
    baseForce
