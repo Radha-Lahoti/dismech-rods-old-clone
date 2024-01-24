@@ -5,6 +5,9 @@ Classes
    :maxdepth: 2
    :caption: Classes
 
-   world
+   backwardEuler
    baseForce
+   baseSolver
+   baseTimeStepper
    elasticJoint
+   world
