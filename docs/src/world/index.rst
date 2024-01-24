@@ -1,2 +1,4 @@
+World
+=====
 .. doxygenclass:: world
    :members:
