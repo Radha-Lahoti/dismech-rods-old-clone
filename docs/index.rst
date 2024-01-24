@@ -8,21 +8,9 @@ Welcome to DisMech's documentation!
 
 .. mdinclude:: ../README.md
 
-.. |helix| image:: ../media/helix.gif
-  :width: 400
-  :alt: helix oscillating freely under gravity
-
-.. |dismech| image:: ../media/dismech-logo.jpg
-  :width: 400
-  :alt: dismech logo
-
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
-
-.. toctree::
-   :maxdepth: 2
-   :caption: src
+   :caption: Contents
 
    src/index
 
