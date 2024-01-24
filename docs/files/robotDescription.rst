@@ -1,3 +1,3 @@
 robotDescription
 ================
-.. doxygenfile:: robotDescription_documented.h
+.. doxygenfile:: robotDescription.h
