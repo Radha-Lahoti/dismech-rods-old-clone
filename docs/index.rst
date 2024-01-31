@@ -12,8 +12,7 @@ Welcome to DisMech's documentation!
    :maxdepth: 1
    :caption: Contents
 
-   classes/index
-   files/index
+   classlist
 
 Indices and tables
 ==================
