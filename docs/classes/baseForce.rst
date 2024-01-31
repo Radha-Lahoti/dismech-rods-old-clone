@@ -1,5 +1,0 @@
-baseForce
-=========
-
-.. doxygenclass:: baseForce
-   :members:

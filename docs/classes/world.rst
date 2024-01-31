@@ -1,4 +1,0 @@
-World
-=====
-.. doxygenclass:: world
-   :members:

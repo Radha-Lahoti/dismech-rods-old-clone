@@ -1,5 +1,0 @@
-elasticJoint
-============
-
-.. doxygenclass:: elasticJoint
-   :members:
