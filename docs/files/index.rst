@@ -5,3 +5,4 @@ Files
    :caption: Files
 
    robotDescription
+   main
