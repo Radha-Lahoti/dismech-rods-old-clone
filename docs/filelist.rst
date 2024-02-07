@@ -1,8 +1,8 @@
-Class list
-==========
+File list
+=========
 
 .. toctree::
    :maxdepth: 1
    :glob:
 
-   class/*
+   file/*
