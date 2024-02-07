@@ -1,1 +1,1 @@
-.. mdinclude:: ../install_instructions.md
+.. mdinclude:: install_instructions.md

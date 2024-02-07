@@ -1,1 +1,1 @@
-.. mdinclude:: ../citation.md
+.. mdinclude:: citation.md

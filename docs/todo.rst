@@ -1,1 +1,1 @@
-.. mdinclude:: ../todo.md
+.. mdinclude:: todo.md
