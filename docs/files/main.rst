@@ -1,3 +1,0 @@
-main
-====
-.. doxygenfile:: main.cpp

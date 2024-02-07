@@ -1,3 +1,0 @@
-robotDescription
-================
-.. doxygenfile:: robotDescription.h
