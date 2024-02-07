@@ -10,7 +10,7 @@ Welcome to DisMech's documentation!
   :alt: logo
   :align: center
 
-.. mdinclude:: ../intro.md
+.. mdinclude:: intro.md
 
 
 .. image:: _static/spider_incline.gif
